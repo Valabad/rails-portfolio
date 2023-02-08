@@ -1,0 +1,2 @@
+class Topflop < ApplicationRecord
+end
