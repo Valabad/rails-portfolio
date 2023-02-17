@@ -1,2 +1,0 @@
-class TopFlopController < ApplicationController
-end
